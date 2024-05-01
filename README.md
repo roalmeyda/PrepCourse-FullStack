@@ -1,1 +1,1 @@
-# PrepCourse-FullStack
+Este proyecto es una prueba para crear un repositorio desde Gibhub y clonarlo a mi repositorio local
